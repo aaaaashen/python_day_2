@@ -1,0 +1,2 @@
+# python_day_2
+关于python输入和输出的方式，特别的涉及到input由str转换到int的内容
